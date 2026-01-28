@@ -1,2 +1,2 @@
-# 100_days-_of_python
+# 100_days_of_python
 This is my python learning series once again....
