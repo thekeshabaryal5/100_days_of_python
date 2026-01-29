@@ -17,7 +17,7 @@ This space is dedicated to documenting my daily progress, practice, and importan
 
 ## Repository Structure 📂
 
-- **`takeaways.txt`**  
+- **`takeaways.ipynb`**  
   ➡️ Updated _daily_ with key points, important concepts, and lessons learned.  
   ➡️ Acts as a _personal journal_ and _revision guide_.
 
@@ -29,7 +29,7 @@ This space is dedicated to documenting my daily progress, practice, and importan
 
 ## How I Use This Repo ✍️
 
-- I update **takeaways.txt** every single day with new learnings.
+- I update **takeaways.ipynb** every single day with new learnings.
 - I regularly add folder named **dayXX** containing learnings of that specific day.
 - This repository will be consistently updated as I continue my journey.
 
