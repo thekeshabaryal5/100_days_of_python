@@ -9,9 +9,9 @@ This space is dedicated to documenting my daily progress, practice, and importan
 
 ## 📊 Progress
 
-**Day 03 / 100 Completed**
+**Day 04 / 100 Completed**
 
-![Progress](https://img.shields.io/badge/Progress-3%25-brightgreen)
+![Progress](https://img.shields.io/badge/Progress-4%25-brightgreen)
 
 ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
