@@ -40,10 +40,11 @@ def status(x):
         
     return remark
         
-names = list(student_scores.keys())
-values = list(map(status,list(student_scores.values())))
+# names = list(student_scores.keys())
+# values = list(map(status,list(student_scores.values())))
 
-for key,value in zip(names,values):
-    student_grades[key] = value
+# for key,value in zip(names,values):
+#     student_grades[key] = value
     
-print(student_grades)
+# print(student_grades)
+print(str(student_scores))

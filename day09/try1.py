@@ -15,7 +15,8 @@ while next_person:
     print("\n"*20)
 
 
-
+with open("./day09/auction_info.txt","w") as file:
+    file.write(str(auction))
 max_amount = max(list(auction.values()))
 name =list(filter(lambda x: x[1] == max_amount, auction.items()))[0][0]
 print(f"Congratulations the winner is {name} with auction price of {max_amount}")
